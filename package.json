@@ -1,5 +1,5 @@
 {
-  "name": "Burn Report Heroku",
+  "name": "burn-report-heroku",
   "version": "1.0.0",
   "description": "Backend for Burn Report App",
   "engines": {
